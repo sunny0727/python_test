@@ -132,3 +132,4 @@ print(cabinet.items()) # dict_items([('B-100', '김태호'), ('C-20', '조세호
 # 목욕탕 폐점
 cabinet.clear()
 print(cabinet) # {}
+print("python commit test")
